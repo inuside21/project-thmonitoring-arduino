@@ -1,3 +1,7 @@
+//==================
+// board: esp8266 -> nodemcu 1.0
+//==================
+
 #include "DHT.h"
 #define DHTPIN D2    
 
